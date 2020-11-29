@@ -2,7 +2,7 @@ name: flutter_toast_plugin
 description: A Flutter plugin to show Toast on Android and Alert on iOS.
 version: 0.0.1
 author: Janhavi Dahihande
-homepage:
+homepage: https://github.com/JanhaviDahihande/Flutter-Toast-Plugin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
