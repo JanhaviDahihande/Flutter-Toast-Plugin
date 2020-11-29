@@ -1,6 +1,6 @@
 # flutter_toast_plugin
 
-A new Flutter plugin.
+A Flutter plugin to show Toast on Android and Alert on iOS.
 
 ## Getting Started
 
